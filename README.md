@@ -1,5 +1,5 @@
 
-# Nymphomanic Empire:
+# AdultUnciv:
 An adult-themed Unciv Civilisation & Overhaul.
 
 ## Disclaimer & Legal Information:
