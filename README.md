@@ -71,7 +71,7 @@ Make sure you use the following graphic settings for the game for the best exper
 I'm always open to new suggestions and ideas.
 
 All custom sprites edited or created by me.
-Code/json is by me.
+Code/json is by me. Anything else has been attributed with links in credits.md
 
 Any bugs occur, please let me know.
 
