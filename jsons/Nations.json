@@ -30,7 +30,7 @@
 		"outerColor": [151, 26, 62],
 		"innerColor": [0,0,0],
 		"uniqueName": "Lust",
-		"unique": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.", "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"]
+		"unique": ["[-25]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
 		"cities": ["Lust Capitol","Dryadia","Nymphotopia","Red City","Sextopia","Squirtonia","Lustopia","Ravage","Lustee",
 			"Sexx","BoobWorld","Pussytopia","Fuck City","Nudistopia","Horny City","Porn Central","Sexilism","Fuck Central","Whoretopia",
 			"Lewdtopia","Fertility Central","City of Love","Lovetopia","City of Lust","City of Fertility","City of Sex","Town of Whores","Sexdem","Whoredon",
