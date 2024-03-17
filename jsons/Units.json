@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Nudist Worker",
+		"unitType": "Civilian",
+		"uniqueTo": "Nymphomanic Empire",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"replaces": "Worker",
+		"cost": 70,
+	},
+
+]
