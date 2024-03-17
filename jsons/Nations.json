@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Nymphomanic Empire",
+		"leaderName": "Queen Lilith",
+		"adjective": ["nympho"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Lay down your weapons and spread your legs!",
+		"startIntroPart2": "Submit to our rule, and we'll submit in your beds.",
+		
+		"declaringWar": "Time to join the fold, make this easy and don't be a brat.",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "No! No! This can't be, you've made a grave mistake.",
+		"introduction": "Bow down and beg for mercy.",
+		
+		"neutralHello": "Can we help you?",
+		"neutralLetsHearIt": ["What's up?","Sup?","What do you want?"],
+		"neutralNo": ["Yuck.","Ew!","Fuck off."],
+		"neutralYes": ["Lovely.","Please.","Well-done."],
+
+		"hateHello": "Ew, what do you want?",
+		"hateLetsHearIt": ["Speak!","What do you want?","Ughh."],
+		"hateNo": ["We refuse.!","We wont submit.","You can fuck right off."],
+		"hateYes": ["sure.","Okay.","..."],
+		
+		"afterPeace": "Perfect, prepare for the next war, we will be back stronger.",
+		"tradeRequest": "We have this trade offer for you.",
+
+		"outerColor": [151, 26, 62],
+		"innerColor": [0,0,0],
+		"unique": "[+1 Culture] for every pop in a occupied city.",
+		"cities": ["Lust Capitol","Dryadia","Nymphotopia","Red City","Sextopia","Squirtonia","Lustopia","Ravage","Lustee",
+			"Sexx","BoobWorld","Pussytopia","Fuck City","Nudistopia","Horny City","Porn Central","Sexilism","Fuck Central","Whoretopia",
+			"Lewdtopia","Fertility Central","City of Love","Lovetopia","City of Lust","City of Fertility","City of Sex","Town of Whores","Sexdem","Whoredon",
+			"Fuckton","Nudetopia","Analtopia","Asstopia","Boobtopia","Pussydonia","Lewdonia", "Fuckfest", "Town of Breasts", "Lustt"]
+	}
+]
