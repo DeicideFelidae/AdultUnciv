@@ -8,5 +8,45 @@
 		"replaces": "Worker",
 		"cost": 70,
 	},
+	{
+		"name": "Nudist Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniqueTo": "Nymphomanic Empire",
+		"replaces": "Settler",
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Nudist Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"uniqueTo": "Nymphomanic Empire",
+		"replaces": "Scout",
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Nudist Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"uniqueTo": "Nymphomanic Empire",
+		"replaces": "Warrior",
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
 
 ]
