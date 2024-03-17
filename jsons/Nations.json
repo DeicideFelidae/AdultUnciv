@@ -3,7 +3,7 @@
 		"name": "Nymphomanic Empire",
 		"leaderName": "Queen Lilith",
 		"adjective": ["nympho"],
-		"startBias": ["Snow"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Lay down your weapons and spread your legs!",
@@ -30,7 +30,7 @@
 		"outerColor": [151, 26, 62],
 		"innerColor": [0,0,0],
 		"uniqueName": "Lust",
-		"uniques": ["[-25]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory", "[+3 Culture] [in all cities]"],
+		"uniques": ["[-25]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory", "[+3 Culture] [in all cities]", "[-40]% Strength", "[+1] Movement"],
 		"cities": ["Lust Capitol","Dryadia","Nymphotopia","Red City","Sextopia","Squirtonia","Lustopia","Ravage","Lustee",
 			"Sexx","BoobWorld","Pussytopia","Fuck City","Nudistopia","Horny City","Porn Central","Sexilism","Fuck Central","Whoretopia",
 			"Lewdtopia","Fertility Central","City of Love","Lovetopia","City of Lust","City of Fertility","City of Sex","Town of Whores","Sexdem","Whoredon",
