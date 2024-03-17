@@ -30,8 +30,8 @@ Make sure you use the following graphic settings for the game for the best exper
 - TileSet: HexaRealm
 - UnitSet: Absolute Units
 
-## Mod Features:
-- New Civilisation: Nymphomanic Empire:
+## Mod Features: (This shows the planned content, I've labelled whats done and what is in progress.)
+- New Civilisation: Nymphomanic Empire: [IN PROGRESS]
     - Unique Textures for default units
     - Unique Buildings:
         - Brothel
