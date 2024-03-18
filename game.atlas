@@ -11,28 +11,28 @@ NationIcons/Nymphomanic Empire
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Nudist Warrior
+TileSets/AbsoluteUnits/Units/Nympho Warrior
   rotate: false
   xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Nudist Worker
+TileSets/AbsoluteUnits/Units/Nympho Worker
   rotate: false
   xy: 420, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Nudist Warrior
+UnitIcons/Nympho Warrior
   rotate: false
   xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Nudist Worker
+UnitIcons/Nympho Worker
   rotate: false
   xy: 628, 4
   size: 200, 200

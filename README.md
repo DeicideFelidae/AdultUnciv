@@ -27,7 +27,7 @@ The **Nymphomanic Empire** is a sex-crazy empire that enjoys outlandish pleasure
 
 ## Mod Settings:
 Make sure you use the following graphic settings for the game for the best experience (optional but **recommended**):
-- TileSet: HexaRealm
+- TileSet: 5Hex (Mod)
 - UnitSet: Absolute Units
 
 ## Mod Features: (This shows the planned content, I've labelled whats done and what is in progress.)

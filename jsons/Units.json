@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Nudist Worker",
+		"name": "Nympho Worker",
 		"unitType": "Civilian",
 		"uniqueTo": "Nymphomanic Empire",
 		"movement": 2,
@@ -9,7 +9,7 @@
 		"cost": 70,
 	},
 	{
-		"name": "Nudist Settler",
+		"name": "Nympho Settler",
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniqueTo": "Nymphomanic Empire",
@@ -20,7 +20,7 @@
 		"hurryCostModifier": 20
 	},
 	{
-		"name": "Nudist Scout",
+		"name": "Nympho Scout",
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 5,
@@ -33,7 +33,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Nudist Warrior",
+		"name": "Nympho Warrior",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 8,
