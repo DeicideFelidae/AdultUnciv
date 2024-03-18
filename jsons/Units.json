@@ -28,7 +28,7 @@
 		"replaces": "Scout",
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"uniques": ["May upgrade to [Nympho Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
@@ -48,5 +48,32 @@
 			{"text": "This is your basic, club-swinging fighter."}
 		]
 	},
-
+	{
+		"name": "Nympho Archer",
+		"unitType": "Archery",
+		"uniqueTo": "Nymphomanic Empire",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 4,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Nympho Spearwoman",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Nymphomanic Empire",
+		"movement": 2,
+		"strength": 13,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
 ]
