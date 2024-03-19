@@ -76,4 +76,16 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Nympho Workboats",
+		"unitType": "Civilian Water",
+		"movement": 4,
+		"cost": 30,
+		"replaces": "Work Boats",
+		"uniqueTo": "Nymphomanic Empire",
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
+            "Uncapturable", "Automation is a primary action"]
+	},
+
 ]
