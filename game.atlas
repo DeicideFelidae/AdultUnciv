@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Nymphomanic Empire
   rotate: false
-  xy: 1252, 104
+  xy: 1460, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -18,44 +18,58 @@ TileSets/AbsoluteUnits/Units/Nympho Archer
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Nympho Scout
+TileSets/AbsoluteUnits/Units/Nympho Harpoon
   rotate: false
   xy: 212, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Nympho Settler
+TileSets/AbsoluteUnits/Units/Nympho Rider
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nympho Scout
   rotate: false
   xy: 420, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Nympho Spearwoman
+TileSets/AbsoluteUnits/Units/Nympho Settler
   rotate: false
   xy: 628, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Nympho Warrior
+TileSets/AbsoluteUnits/Units/Nympho Spearwoman
   rotate: false
   xy: 836, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Nympho Workboat
+TileSets/AbsoluteUnits/Units/Nympho Warrior
   rotate: false
   xy: 1044, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Nympho Workboat
+  rotate: false
+  xy: 1252, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Nympho Worker
   rotate: false
-  xy: 1044, 4
+  xy: 1252, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -69,35 +83,35 @@ UnitIcons/Nympho Archer
   index: -1
 UnitIcons/Nympho Scout
   rotate: false
-  xy: 212, 4
+  xy: 420, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Nympho Settler
   rotate: false
-  xy: 420, 4
+  xy: 628, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Nympho Spearwoman
   rotate: false
-  xy: 628, 4
+  xy: 836, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Nympho Warrior
   rotate: false
-  xy: 836, 4
+  xy: 1044, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Nympho Worker
   rotate: false
-  xy: 1252, 212
+  xy: 1460, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0

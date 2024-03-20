@@ -42,7 +42,7 @@
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"uniques" : ["May upgrade to [Nympho Spearwoman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
@@ -77,7 +77,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Nympho Workboats",
+		"name": "Nympho Workboat",
 		"unitType": "Civilian Water",
 		"movement": 4,
 		"cost": 30,
@@ -87,5 +87,37 @@
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
             "Uncapturable", "Automation is a primary action"]
 	},
-
+	{
+		"name": "Nympho Harpoon",
+		"unitType": "Siege",
+		"replaces": "Catapult",
+		"uniqueTo": "Nymphomanic Empire",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 10,
+		"cost": 75,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+			"Must set up to ranged attack", "[-1] Sight"],
+		"hurryCostModifier": 20,
+		"attackSound": "throw"
+	},
+	{
+		"name": "Nympho Rider",
+		"unitType": "Mounted",
+		"uniqueTo": "Nymphomanic Empire",
+		"replaces": "Horseman",
+		"movement": 3,
+		"strength": 15,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking", "[-25]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
 ]
