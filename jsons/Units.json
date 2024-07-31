@@ -120,4 +120,45 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
+	{
+		"name": "Nympho Warboat",
+		"unitType": "Melee Water",
+		"replaces": "Trireme",
+		"uniqueTo": "Nymphomanic Empire",
+		"movement": 4,
+		"strength": 10,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Nympho Whoreboat",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Nympho Whoreboat",
+		"unitType": "Melee Water",
+		"uniqueTo": "Nymphomanic Empire",
+		"movement": 4,
+		"strength": 15,
+		"cost": 70,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Nympho Composite Archer",
+		"unitType": "Archery",
+		"replaces": "Composite Bowman",
+		"uniqueTo": "Nymphomanic Empire",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
 ]
