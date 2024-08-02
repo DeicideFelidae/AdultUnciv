@@ -32,31 +32,17 @@ Make sure you use the following graphic settings for the game for the best exper
 
 ## Mod Features: (This shows the planned content, I've labelled whats done and what is in progress.)
 - New Civilisation: Nymphomanic Empire: [DONE]
-    - Unique Textures for default units [IN-PROGRESS]
+    - Unique Textures for default units.
     - Unique Buildings:
-        - Brothel
-        - Strip Club
-        - Red Light District
-        - Porn Studio 
-        - Sex Toy Factory
-        - Pornsites
-- New Tile Features:
-    - Cannabis Plants
-    - Coca Plants
-    - Magic Mushrooms
-- New Tile Improvements:
-    - Cannabis Plantation
-    - Coca Plantation
-    - Magic Mushroom Farm
+        - Pleasure Palace
 - New Buildings:
-    - Cannabis Dry Vat
-    - Mushroom Dry Vat
-    - Coca Mill
-    - Joint Rollers
-    - Weed Shop
-    - Drug Shop
-    - Cannabis Oiler
-    - Weed Bakery
+    -  Adult Film Studio
+    -  Red Light District
+    -  Nudist Colony
+    -  Fantasy Lounge
+    -  Sensual Spa
+    -  Luxury Brothel
+    -  Erotic Art Gallery
 
 
 ## Installtion:
