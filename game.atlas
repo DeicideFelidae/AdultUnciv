@@ -1,139 +1,174 @@
 
 game.png
-size: 2048, 512
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Nymphomanic Empire
   rotate: false
-  xy: 1876, 312
+  xy: 1460, 1600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nympho Archer
   rotate: false
-  xy: 4, 212
+  xy: 524, 1252
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nympho Composite Archer
   rotate: false
-  xy: 212, 212
+  xy: 1044, 1772
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nympho Harpoon
   rotate: false
-  xy: 212, 4
+  xy: 4, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nympho Rider
   rotate: false
-  xy: 420, 212
+  xy: 524, 1044
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nympho Scout
   rotate: false
-  xy: 420, 4
+  xy: 732, 1252
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nympho Settler
   rotate: false
-  xy: 628, 4
+  xy: 1044, 1564
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nympho Spearwoman
   rotate: false
-  xy: 836, 4
+  xy: 1252, 1772
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nympho Warboat
   rotate: false
-  xy: 1044, 4
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nympho Warrior
   rotate: false
-  xy: 1252, 212
+  xy: 212, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nympho Whoreboat
   rotate: false
-  xy: 1460, 212
+  xy: 524, 836
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nympho Workboat
   rotate: false
-  xy: 1460, 4
+  xy: 732, 1044
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nympho Worker
   rotate: false
-  xy: 1668, 212
+  xy: 1252, 1564
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Nympho Archer
   rotate: false
-  xy: 4, 4
-  size: 200, 200
-  orig: 200, 200
+  xy: 1460, 1844
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Nympho Composite Archer
+  rotate: false
+  xy: 212, 76
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Nympho Harpoon
+  rotate: false
+  xy: 4, 1460
+  size: 512, 512
+  orig: 512, 512
   offset: 0, 0
   index: -1
 UnitIcons/Nympho Scout
   rotate: false
-  xy: 628, 212
-  size: 200, 200
-  orig: 200, 200
+  xy: 524, 700
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Nympho Settler
   rotate: false
-  xy: 836, 212
-  size: 200, 200
-  orig: 200, 200
+  xy: 4, 940
+  size: 512, 512
+  orig: 512, 512
   offset: 0, 0
   index: -1
 UnitIcons/Nympho Spearwoman
   rotate: false
-  xy: 1044, 212
-  size: 200, 200
-  orig: 200, 200
+  xy: 524, 1460
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+UnitIcons/Nympho Warboat
+  rotate: false
+  xy: 732, 908
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Nympho Warrior
   rotate: false
-  xy: 1252, 4
-  size: 200, 200
-  orig: 200, 200
+  xy: 4, 420
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+UnitIcons/Nympho Whoreboat
+  rotate: false
+  xy: 1460, 1708
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Nympho Workboat
+  rotate: false
+  xy: 1596, 1844
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Nympho Worker
   rotate: false
-  xy: 1668, 4
-  size: 200, 200
-  orig: 200, 200
+  xy: 524, 564
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1

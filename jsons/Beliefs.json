@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Goddess of Lust",
+        "type": "Pantheon",
+		"uniques": ["[+2 Happiness] [in cities following this religion] <in cities with at least [3] [Population]>"]
+	},
+	{
+        "name": "Orgy Rituals",
+        "type": "Follower",
+        "uniques": ["[+4 Faith] from every [Pleasure Palace]"]
+    },
+	{
+        "name": "Pussy Worship",
+        "type": "Founder",
+        "uniques": ["[+5 Culture] from every [2] global followers [in foreign cities]"]
+    },
+	{
+        "name": "Nympho Princesses",
+        "type": "Enhancer",
+        "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Drama and Poetry]>"]
+    }
+]

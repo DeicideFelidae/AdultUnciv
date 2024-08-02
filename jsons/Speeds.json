@@ -1,0 +1,30 @@
+[
+    {
+        "name": "DumbCat's Marathon",
+        "modifier": 3.0,
+        "productionCostModifier": 0.67,
+        "goldCostModifier": 0.67,
+        "scienceCostModifier": 3.0,
+        "cultureCostModifier": 0.67,
+        "faithCostModifier": 0.67,
+        "improvementBuildLengthModifier": 0.67,
+        "barbarianModifier": 0.67,
+        "goldGiftModifier": 0.67,
+        "cityStateTributeScalingInterval": 32.0,
+        "goldenAgeLengthModifier": 2.0,
+        "religiousPressureAdjacentCity": 2,
+        "peaceDealDuration": 30,
+        "dealDuration": 90,
+        "startYear": -4000,
+        "turns": [
+            {"yearsPerTurn":   15,     "untilTurn":  100},
+            {"yearsPerTurn":   10,     "untilTurn":  400},
+            {"yearsPerTurn":    5,     "untilTurn":  570},
+            {"yearsPerTurn":    2,     "untilTurn":  771},
+            {"yearsPerTurn":    1,     "untilTurn":  900},
+            {"yearsPerTurn":  0.5,     "untilTurn": 1080},
+            {"yearsPerTurn": 0.25,     "untilTurn": 1344},
+            {"yearsPerTurn": 0.083333, "untilTurn": 1500}
+        ]
+    }
+]

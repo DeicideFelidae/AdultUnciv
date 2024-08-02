@@ -1,0 +1,84 @@
+[
+	{
+		"name": "Pleasure Palace",
+		"isNationalWonder": true,
+		"production": 1,
+		"happiness": 3,
+		"faith": 2,
+		"culture": 2,
+		"gold": 2,
+		"cost": 1,
+		"replaces": "Palace",
+		"uniqueTo": "Nymphomanic Empire",
+		"uniques": ["Indicates the capital city"]
+	},
+	{
+		"name": "Adult Film Studio",
+		"production": 2,
+		"happiness": 1,
+		"faith": 1,
+		"culture": 2,
+		"gold": 3,
+		"cost": 250,
+		"requiredTech": "Radio"
+	},
+	{
+		"name": "Red Light District",
+		"production": 1,
+		"happiness": 2,
+		"faith": 2,
+		"culture": 1,
+		"gold": 4,
+		"cost": 400,
+		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Nudist Colony",
+		"happiness": 3,
+		"faith": 1,
+		"culture": 1,
+		"gold": 1,
+		"cost": 200,
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Fantasy Lounge",
+		"production": 1,
+		"happiness": 3,
+		"faith": 1,
+		"culture": 2,
+		"gold": 3,
+		"cost": 250,
+		"requiredTech": "Acoustics"
+	},
+	{
+		"name": "Sensual Spa",
+		"production": 1,
+		"happiness": 3,
+		"faith": 1,
+		"culture": 1,
+		"gold": 2,
+		"cost": 225,
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Luxury Brothel",
+		"production": 1,
+		"happiness": 2,
+		"faith": 2,
+		"culture": 1,
+		"gold": 4,
+		"cost": 250,
+		"requiredTech": "Masonry"
+	},
+	{
+		"name": "Erotic Art Gallery",
+		"production": 1,
+		"happiness": 2,
+		"faith": 1,
+		"culture": 3,
+		"gold": 2,
+		"cost": 350,
+		"requiredTech": "Drama and Poetry"
+	},
+]
